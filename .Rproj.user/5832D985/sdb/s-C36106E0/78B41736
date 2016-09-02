@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1419141126877.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "78B41736",
+    "lastKnownWriteTime" : 7741240723082584096,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "text_application",
+        "contentUrl" : "content?title=text_application&file=8c8f717a80c84a9ea5b7ef22661aeb00.htm",
+        "displayedObservations" : 123,
+        "displayedVariables" : 2,
+        "totalObservations" : 123,
+        "variables" : 2
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}

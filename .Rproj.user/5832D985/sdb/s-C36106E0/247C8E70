@@ -1,0 +1,22 @@
+{
+    "contents" : "",
+    "created" : 1420169858288.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "247C8E70",
+    "lastKnownWriteTime" : 7741240722073845761,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "caption" : "survey",
+        "contentUrl" : "content?title=survey&file=314019f8909447f78da95677cebdd121.htm",
+        "displayedObservations" : 379,
+        "displayedVariables" : 17,
+        "totalObservations" : 379,
+        "variables" : 17
+    },
+    "source_on_save" : false,
+    "type" : "r_dataframe"
+}
